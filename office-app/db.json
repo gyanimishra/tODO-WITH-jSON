@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "teju",
+      "email": "teju@gmail.com",
+      "phone":9696876187,
+      "address":"ballia",
+      "status":"Active"
+    },
+    {
+      "id": 2,
+      "name": "gyan",
+      "email": "gyan@gmail.com",
+      "phone":9696876187,
+      "address":"sirdi",
+      "status":"Inactive"
+    },
+    {
+      "id": 3,
+      "name": "vivek",
+      "email": "vivek@gmail.com",
+      "phone":9696876187,
+      "address":"bihar",
+      "status":"Active"
+    },
+    {
+      "id": 4,
+      "name": "shakir",
+      "email": "shakir@gmail.com",
+      "phone":9696876187,
+      "address":"chhapra",
+      "status":"Active"
+    },
+    {
+      "id": 5,
+      "name": "nachiket",
+      "email": "nachiket@gmail.com",
+      "phone":9696876187,
+      "address":"pune",
+      "status":"Inactive"
+    },
+    {
+      "id": 6,
+      "name": "alibaba",
+      "email": "ali@gmail.com",
+      "phone":9696876187,
+      "address":"U.S.",
+      "status":"Active"
+    },
+    {
+      "id": 7,
+      "name": "rituraaj",
+      "email": "ritu@gmail.com",
+      "phone":9696876187,
+      "address":"jharkhand",
+      "status":"Inactive"
+    },
+    {
+      "id": 8,
+      "name": "divya",
+      "email": "divya@gmail.com",
+      "phone":9696876187,
+      "address":"noida",
+      "status":"Active"
+    },
+    {
+      "id": 9,
+      "name": "tejsavani",
+      "email": "teju@gmail.com",
+      "phone":9696876187,
+      "address":"ballia",
+      "status":"Active"
+    }
+  ]
+}
